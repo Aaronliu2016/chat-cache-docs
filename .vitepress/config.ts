@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Chat Cache",
+  title: "Chat Cache | For ChatGPT",
   description: "Keep your prompts cached locally.",
   lastUpdated: true,
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
@@ -24,16 +24,12 @@ export default defineConfig({
       },
       {
         text: "Policies",
-        items: [
-          { text: "Privacy Policy", link: "/docs/privacy-policy" },
-        ]
+        items: [{ text: "Privacy Policy", link: "/docs/privacy-policy" }],
       },
       {
         text: "Feedback",
-        items: [
-          { text: "Feedback Form", link: "/docs/feedback-form" },
-        ]
-      }
+        items: [{ text: "Feedback Form", link: "/docs/feedback-form" }],
+      },
     ],
 
     socialLinks: [
@@ -45,8 +41,8 @@ export default defineConfig({
 
     footer: {
       message:
-        'Build with love and <a href="https://vitepress.dev" target="_blank">VitePress</a>',
-      copyright: "Copyright © 2024-present Aaron Liu",
+        "Build with love by <a href='https://aarontalk.com'>Aaron Liu</a>",
+      copyright: "Copyright © 2024 | All Rights Reserved.",
     },
   },
 });
