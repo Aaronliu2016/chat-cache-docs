@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Chat Cache | For ChatGPT",
+  title: "Chat Cache",
   description: "Keep your prompts cached locally.",
   lastUpdated: true,
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
