@@ -9,10 +9,10 @@ Chat Cache supports the most popular modern browsers, including Chrome, Microsof
 
 ## Install
 
-- [Chrome](https://baidu.com)
-- [Edge](https://baidu.com)
-- [Firefox](https://baidu.com)
-- [Safari](https://baidu.com)
+- [Chrome](https://chat-cache.com)
+- [Edge](https://chat-cache.com)
+- [Firefox](https://chat-cache.com)
+- [Safari](https://chat-cache.com)
 
 ## Quick Start
 

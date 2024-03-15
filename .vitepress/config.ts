@@ -34,8 +34,8 @@ export default defineConfig({
 
     socialLinks: [
       {
-        icon: "github",
-        link: "https://github.com/aaronliu2016/chat-cache-docs",
+        icon: "twitter",
+        link: "https://twitter.com/Aarontalkdotcom",
       },
     ],
 
