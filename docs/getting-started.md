@@ -9,8 +9,9 @@ Chat Cache supports the most popular modern browsers, including Chrome, Microsof
 
 ## Install
 
-- [Download Chrome Extension Zip File](../assets/chat-cache-v0.0.1-chrome.zip)
-- [Download from Chrome Web Store](https://chrome.google.com/webstore/detail/chat-cache/jpacfhgclpnakbomojgmidmfcmjcddgj)
+- [Download Chrome Extension Zip File](/chat-cache-v0.0.1-chrome.zip)
+- [Download from Chrome Web Store (Still under reviewing)](https://chrome.google.com/webstore/detail/chat-cache/jpacfhgclpnakbomojgmidmfcmjcddgj)
+- [Download from Microsoft Edge Web Store](https://microsoftedge.microsoft.com/addons/detail/phdkbmfbhpifdhdkflflgnibakcffoop)
 
 ## Quick Start
 
