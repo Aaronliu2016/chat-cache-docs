@@ -5,7 +5,20 @@ export default defineConfig({
   title: "Chat Cache",
   description: "Keep your prompts cached locally.",
   lastUpdated: true,
-  head: [["link", { rel: "icon", href: "/logo.svg" }]],
+  head: [
+    ["link", { rel: "icon", href: "/logo.svg" }], 
+    ["script", {
+      src: "https://www.googletagmanager.com/gtag/js?id=G-WWGS2YXFLH",
+      async: "true"
+    }],
+    ["script", {}, 
+    `window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-WWGS2YXFLH');` 
+    
+  ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.svg",
