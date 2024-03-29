@@ -33,7 +33,7 @@ export default defineConfig({
     sidebar: [
       {
         text: "Introduction",
-        items: [{ text: "Getting Started", link: "/docs/getting-started" }],
+        items: [{ text: "what is chat cache", link: "/docs"},{ text: "Getting Started", link: "/docs/getting-started" }],
       },
       {
         text: "Policies",

@@ -5,6 +5,9 @@ description: Documentation for the Chat Cache extension
 ---
 
 # Introduction
+
+<iframe style="margin: 2rem 0;" width="640" height="315" src="https://www.youtube.com/embed/0c3qYpQXhvs?si=QHVQudsQx7jjKrdm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Chat Cache** is a browser extension, which provides fast and safe cache for your chatgpt prompts.
 
 Are you an avid user of ChatGPT looking for a way to enhance your interaction? "Chat Cache" is the perfect companion for your conversational adventures. Designed with simplicity and efficiency in mind, our extension offers a seamless way to save, manage, and reuse your manual ChatGPT prompts with ease.
