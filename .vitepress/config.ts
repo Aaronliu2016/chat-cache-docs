@@ -43,6 +43,10 @@ export default defineConfig({
         text: "Feedback",
         items: [{ text: "Feedback Form", link: "/docs/feedback-form" }],
       },
+      {
+        text: "About",
+        items: [{ text: "Release Notes", link: "/docs/release" }],
+      }
     ],
 
     socialLinks: [
